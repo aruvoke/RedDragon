@@ -1,2 +1,1 @@
-Say Hi!
-BUAT TESTNET TEA 
+Tea Testnet Purposes
